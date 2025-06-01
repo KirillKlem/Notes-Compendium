@@ -2,7 +2,8 @@
 
 [🇷🇺 RU-version](README_RU.md)
 
-Curated, plain-language notes on influential papers, *mostly in machine learning*.  
+## Curated, plain-language notes on influential papers, *mostly in machine learning*.  
+
 **I make these notes first and foremost for myself** — to better digest ideas, track my learning, and quickly recall key results and intuitions.  
 But I hope they might also be helpful for others — whether you’re learning from scratch, onboarding to a research/codebase, or just want a clear summary without rereading every paper.
 
